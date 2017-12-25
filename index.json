@@ -2,523 +2,523 @@
   "data": [
     {
       "name": "Ambient Choir",
-      "file": "wave_modules/sonic-samples/ambi_choir.flac"
+      "file": "node_modules/ultrasonic/ambi_choir.flac"
     },
     {
       "name": "Ambient Dark Woosh",
-      "file": "wave_modules/sonic-samples/ambi_dark_woosh.flac"
+      "file": "node_modules/ultrasonic/ambi_dark_woosh.flac"
     },
     {
       "name": "Ambient Drone",
-      "file": "wave_modules/sonic-samples/ambi_drone.flac"
+      "file": "node_modules/ultrasonic/ambi_drone.flac"
     },
     {
       "name": "Ambient Glass Hum",
-      "file": "wave_modules/sonic-samples/ambi_glass_hum.flac"
+      "file": "node_modules/ultrasonic/ambi_glass_hum.flac"
     },
     {
       "name": "Ambient Glass Rub",
-      "file": "wave_modules/sonic-samples/ambi_glass_rub.flac"
+      "file": "node_modules/ultrasonic/ambi_glass_rub.flac"
     },
     {
       "name": "Ambient Haunted Hum",
-      "file": "wave_modules/sonic-samples/ambi_haunted_hum.flac"
+      "file": "node_modules/ultrasonic/ambi_haunted_hum.flac"
     },
     {
       "name": "Ambient Lunar Land",
-      "file": "wave_modules/sonic-samples/ambi_lunar_land.flac"
+      "file": "node_modules/ultrasonic/ambi_lunar_land.flac"
     },
     {
       "name": "Ambient Piano",
-      "file": "wave_modules/sonic-samples/ambi_piano.flac"
+      "file": "node_modules/ultrasonic/ambi_piano.flac"
     },
     {
       "name": "Ambient Soft Buzz",
-      "file": "wave_modules/sonic-samples/ambi_soft_buzz.flac"
+      "file": "node_modules/ultrasonic/ambi_soft_buzz.flac"
     },
     {
       "name": "Ambient Swoosh",
-      "file": "wave_modules/sonic-samples/ambi_swoosh.flac"
+      "file": "node_modules/ultrasonic/ambi_swoosh.flac"
     },
     {
       "name": "Bass Dnb F",
-      "file": "wave_modules/sonic-samples/bass_dnb_f.flac"
+      "file": "node_modules/ultrasonic/bass_dnb_f.flac"
     },
     {
       "name": "Bass Drop C",
-      "file": "wave_modules/sonic-samples/bass_drop_c.flac"
+      "file": "node_modules/ultrasonic/bass_drop_c.flac"
     },
     {
       "name": "Bass Hard C",
-      "file": "wave_modules/sonic-samples/bass_hard_c.flac"
+      "file": "node_modules/ultrasonic/bass_hard_c.flac"
     },
     {
       "name": "Bass Hit C",
-      "file": "wave_modules/sonic-samples/bass_hit_c.flac"
+      "file": "node_modules/ultrasonic/bass_hit_c.flac"
     },
     {
       "name": "Bass Thick C",
-      "file": "wave_modules/sonic-samples/bass_thick_c.flac"
+      "file": "node_modules/ultrasonic/bass_thick_c.flac"
     },
     {
       "name": "Bass Trance C",
-      "file": "wave_modules/sonic-samples/bass_trance_c.flac"
+      "file": "node_modules/ultrasonic/bass_trance_c.flac"
     },
     {
       "name": "Bass Voxy C",
-      "file": "wave_modules/sonic-samples/bass_voxy_c.flac"
+      "file": "node_modules/ultrasonic/bass_voxy_c.flac"
     },
     {
       "name": "Bass Voxy Hit C",
-      "file": "wave_modules/sonic-samples/bass_voxy_hit_c.flac"
+      "file": "node_modules/ultrasonic/bass_voxy_hit_c.flac"
     },
     {
       "name": "Bass Woodsy C",
-      "file": "wave_modules/sonic-samples/bass_woodsy_c.flac"
+      "file": "node_modules/ultrasonic/bass_woodsy_c.flac"
     },
     {
       "name": "Drums Bass  #808",
-      "file": "wave_modules/sonic-samples/bd_808.flac"
+      "file": "node_modules/ultrasonic/bd_808.flac"
     },
     {
       "name": "Drums Bass Ada",
-      "file": "wave_modules/sonic-samples/bd_ada.flac"
+      "file": "node_modules/ultrasonic/bd_ada.flac"
     },
     {
       "name": "Drums Bass Boom",
-      "file": "wave_modules/sonic-samples/bd_boom.flac"
+      "file": "node_modules/ultrasonic/bd_boom.flac"
     },
     {
       "name": "Drums Bass Fat",
-      "file": "wave_modules/sonic-samples/bd_fat.flac"
+      "file": "node_modules/ultrasonic/bd_fat.flac"
     },
     {
       "name": "Drums Bass Gas",
-      "file": "wave_modules/sonic-samples/bd_gas.flac"
+      "file": "node_modules/ultrasonic/bd_gas.flac"
     },
     {
       "name": "Drums Bass Haus",
-      "file": "wave_modules/sonic-samples/bd_haus.flac"
+      "file": "node_modules/ultrasonic/bd_haus.flac"
     },
     {
       "name": "Drums Bass Klub",
-      "file": "wave_modules/sonic-samples/bd_klub.flac"
+      "file": "node_modules/ultrasonic/bd_klub.flac"
     },
     {
       "name": "Drums Bass Pure",
-      "file": "wave_modules/sonic-samples/bd_pure.flac"
+      "file": "node_modules/ultrasonic/bd_pure.flac"
     },
     {
       "name": "Drums Bass Sone",
-      "file": "wave_modules/sonic-samples/bd_sone.flac"
+      "file": "node_modules/ultrasonic/bd_sone.flac"
     },
     {
       "name": "Drums Bass Tek",
-      "file": "wave_modules/sonic-samples/bd_tek.flac"
+      "file": "node_modules/ultrasonic/bd_tek.flac"
     },
     {
       "name": "Drums Bass Zome",
-      "file": "wave_modules/sonic-samples/bd_zome.flac"
+      "file": "node_modules/ultrasonic/bd_zome.flac"
     },
     {
       "name": "Drums Bass Zum",
-      "file": "wave_modules/sonic-samples/bd_zum.flac"
+      "file": "node_modules/ultrasonic/bd_zum.flac"
     },
     {
       "name": "Drums Bass Hard",
-      "file": "wave_modules/sonic-samples/drum_bass_hard.flac"
+      "file": "node_modules/ultrasonic/drum_bass_hard.flac"
     },
     {
       "name": "Drums Bass Soft",
-      "file": "wave_modules/sonic-samples/drum_bass_soft.flac"
+      "file": "node_modules/ultrasonic/drum_bass_soft.flac"
     },
     {
       "name": "Drums Cowbell",
-      "file": "wave_modules/sonic-samples/drum_cowbell.flac"
+      "file": "node_modules/ultrasonic/drum_cowbell.flac"
     },
     {
       "name": "Drums Cymbal Closed",
-      "file": "wave_modules/sonic-samples/drum_cymbal_closed.flac"
+      "file": "node_modules/ultrasonic/drum_cymbal_closed.flac"
     },
     {
       "name": "Drums Cymbal Hard",
-      "file": "wave_modules/sonic-samples/drum_cymbal_hard.flac"
+      "file": "node_modules/ultrasonic/drum_cymbal_hard.flac"
     },
     {
       "name": "Drums Cymbal Open",
-      "file": "wave_modules/sonic-samples/drum_cymbal_open.flac"
+      "file": "node_modules/ultrasonic/drum_cymbal_open.flac"
     },
     {
       "name": "Drums Cymbal Pedal",
-      "file": "wave_modules/sonic-samples/drum_cymbal_pedal.flac"
+      "file": "node_modules/ultrasonic/drum_cymbal_pedal.flac"
     },
     {
       "name": "Drums Cymbal Soft",
-      "file": "wave_modules/sonic-samples/drum_cymbal_soft.flac"
+      "file": "node_modules/ultrasonic/drum_cymbal_soft.flac"
     },
     {
       "name": "Drums Heavy Kick",
-      "file": "wave_modules/sonic-samples/drum_heavy_kick.flac"
+      "file": "node_modules/ultrasonic/drum_heavy_kick.flac"
     },
     {
       "name": "Drums Roll",
-      "file": "wave_modules/sonic-samples/drum_roll.flac"
+      "file": "node_modules/ultrasonic/drum_roll.flac"
     },
     {
       "name": "Drums Snare Hard",
-      "file": "wave_modules/sonic-samples/drum_snare_hard.flac"
+      "file": "node_modules/ultrasonic/drum_snare_hard.flac"
     },
     {
       "name": "Drums Snare Soft",
-      "file": "wave_modules/sonic-samples/drum_snare_soft.flac"
+      "file": "node_modules/ultrasonic/drum_snare_soft.flac"
     },
     {
       "name": "Drums Splash Hard",
-      "file": "wave_modules/sonic-samples/drum_splash_hard.flac"
+      "file": "node_modules/ultrasonic/drum_splash_hard.flac"
     },
     {
       "name": "Drums Splash Soft",
-      "file": "wave_modules/sonic-samples/drum_splash_soft.flac"
+      "file": "node_modules/ultrasonic/drum_splash_soft.flac"
     },
     {
       "name": "Drums Tom Hi Hard",
-      "file": "wave_modules/sonic-samples/drum_tom_hi_hard.flac"
+      "file": "node_modules/ultrasonic/drum_tom_hi_hard.flac"
     },
     {
       "name": "Drums Tom Hi Soft",
-      "file": "wave_modules/sonic-samples/drum_tom_hi_soft.flac"
+      "file": "node_modules/ultrasonic/drum_tom_hi_soft.flac"
     },
     {
       "name": "Drums Tom Lo Hard",
-      "file": "wave_modules/sonic-samples/drum_tom_lo_hard.flac"
+      "file": "node_modules/ultrasonic/drum_tom_lo_hard.flac"
     },
     {
       "name": "Drums Tom Lo Soft",
-      "file": "wave_modules/sonic-samples/drum_tom_lo_soft.flac"
+      "file": "node_modules/ultrasonic/drum_tom_lo_soft.flac"
     },
     {
       "name": "Drums Tom Mid Hard",
-      "file": "wave_modules/sonic-samples/drum_tom_mid_hard.flac"
+      "file": "node_modules/ultrasonic/drum_tom_mid_hard.flac"
     },
     {
       "name": "Drums Tom Mid Soft",
-      "file": "wave_modules/sonic-samples/drum_tom_mid_soft.flac"
+      "file": "node_modules/ultrasonic/drum_tom_mid_soft.flac"
     },
     {
       "name": "Electric Sound Beep",
-      "file": "wave_modules/sonic-samples/elec_beep.flac"
+      "file": "node_modules/ultrasonic/elec_beep.flac"
     },
     {
       "name": "Electric Sound Bell",
-      "file": "wave_modules/sonic-samples/elec_bell.flac"
+      "file": "node_modules/ultrasonic/elec_bell.flac"
     },
     {
       "name": "Electric Sound Blip",
-      "file": "wave_modules/sonic-samples/elec_blip.flac"
+      "file": "node_modules/ultrasonic/elec_blip.flac"
     },
     {
       "name": "Electric Sound Blip #2",
-      "file": "wave_modules/sonic-samples/elec_blip2.flac"
+      "file": "node_modules/ultrasonic/elec_blip2.flac"
     },
     {
       "name": "Electric Sound Blup",
-      "file": "wave_modules/sonic-samples/elec_blup.flac"
+      "file": "node_modules/ultrasonic/elec_blup.flac"
     },
     {
       "name": "Electric Sound Bong",
-      "file": "wave_modules/sonic-samples/elec_bong.flac"
+      "file": "node_modules/ultrasonic/elec_bong.flac"
     },
     {
       "name": "Electric Sound Chime",
-      "file": "wave_modules/sonic-samples/elec_chime.flac"
+      "file": "node_modules/ultrasonic/elec_chime.flac"
     },
     {
       "name": "Electric Sound Cymbal",
-      "file": "wave_modules/sonic-samples/elec_cymbal.flac"
+      "file": "node_modules/ultrasonic/elec_cymbal.flac"
     },
     {
       "name": "Electric Sound Filt Snare",
-      "file": "wave_modules/sonic-samples/elec_filt_snare.flac"
+      "file": "node_modules/ultrasonic/elec_filt_snare.flac"
     },
     {
       "name": "Electric Sound Flip",
-      "file": "wave_modules/sonic-samples/elec_flip.flac"
+      "file": "node_modules/ultrasonic/elec_flip.flac"
     },
     {
       "name": "Electric Sound Fuzz Tom",
-      "file": "wave_modules/sonic-samples/elec_fuzz_tom.flac"
+      "file": "node_modules/ultrasonic/elec_fuzz_tom.flac"
     },
     {
       "name": "Electric Sound Hi Snare",
-      "file": "wave_modules/sonic-samples/elec_hi_snare.flac"
+      "file": "node_modules/ultrasonic/elec_hi_snare.flac"
     },
     {
       "name": "Electric Sound Hollow Kick",
-      "file": "wave_modules/sonic-samples/elec_hollow_kick.flac"
+      "file": "node_modules/ultrasonic/elec_hollow_kick.flac"
     },
     {
       "name": "Electric Sound Lo Snare",
-      "file": "wave_modules/sonic-samples/elec_lo_snare.flac"
+      "file": "node_modules/ultrasonic/elec_lo_snare.flac"
     },
     {
       "name": "Electric Sound Mid Snare",
-      "file": "wave_modules/sonic-samples/elec_mid_snare.flac"
+      "file": "node_modules/ultrasonic/elec_mid_snare.flac"
     },
     {
       "name": "Electric Sound Ping",
-      "file": "wave_modules/sonic-samples/elec_ping.flac"
+      "file": "node_modules/ultrasonic/elec_ping.flac"
     },
     {
       "name": "Electric Sound Plip",
-      "file": "wave_modules/sonic-samples/elec_plip.flac"
+      "file": "node_modules/ultrasonic/elec_plip.flac"
     },
     {
       "name": "Electric Sound Pop",
-      "file": "wave_modules/sonic-samples/elec_pop.flac"
+      "file": "node_modules/ultrasonic/elec_pop.flac"
     },
     {
       "name": "Electric Sound Snare",
-      "file": "wave_modules/sonic-samples/elec_snare.flac"
+      "file": "node_modules/ultrasonic/elec_snare.flac"
     },
     {
       "name": "Electric Sound Soft Kick",
-      "file": "wave_modules/sonic-samples/elec_soft_kick.flac"
+      "file": "node_modules/ultrasonic/elec_soft_kick.flac"
     },
     {
       "name": "Electric Sound Tick",
-      "file": "wave_modules/sonic-samples/elec_tick.flac"
+      "file": "node_modules/ultrasonic/elec_tick.flac"
     },
     {
       "name": "Electric Sound Triangle",
-      "file": "wave_modules/sonic-samples/elec_triangle.flac"
+      "file": "node_modules/ultrasonic/elec_triangle.flac"
     },
     {
       "name": "Electric Sound Twang",
-      "file": "wave_modules/sonic-samples/elec_twang.flac"
+      "file": "node_modules/ultrasonic/elec_twang.flac"
     },
     {
       "name": "Electric Sound Twip",
-      "file": "wave_modules/sonic-samples/elec_twip.flac"
+      "file": "node_modules/ultrasonic/elec_twip.flac"
     },
     {
       "name": "Electric Sound Wood",
-      "file": "wave_modules/sonic-samples/elec_wood.flac"
+      "file": "node_modules/ultrasonic/elec_wood.flac"
     },
     {
       "name": "Guitar E Fifths",
-      "file": "wave_modules/sonic-samples/guit_e_fifths.flac"
+      "file": "node_modules/ultrasonic/guit_e_fifths.flac"
     },
     {
       "name": "Guitar E Slide",
-      "file": "wave_modules/sonic-samples/guit_e_slide.flac"
+      "file": "node_modules/ultrasonic/guit_e_slide.flac"
     },
     {
       "name": "Guitar Em #9",
-      "file": "wave_modules/sonic-samples/guit_em9.flac"
+      "file": "node_modules/ultrasonic/guit_em9.flac"
     },
     {
       "name": "Guitar Harmonics",
-      "file": "wave_modules/sonic-samples/guit_harmonics.flac"
+      "file": "node_modules/ultrasonic/guit_harmonics.flac"
     },
     {
       "name": "Loop Amen",
-      "file": "wave_modules/sonic-samples/loop_amen.flac"
+      "file": "node_modules/ultrasonic/loop_amen.flac"
     },
     {
       "name": "Loop Amen Full",
-      "file": "wave_modules/sonic-samples/loop_amen_full.flac"
+      "file": "node_modules/ultrasonic/loop_amen_full.flac"
     },
     {
       "name": "Loop Breakbeat",
-      "file": "wave_modules/sonic-samples/loop_breakbeat.flac"
+      "file": "node_modules/ultrasonic/loop_breakbeat.flac"
     },
     {
       "name": "Loop Compus",
-      "file": "wave_modules/sonic-samples/loop_compus.flac"
+      "file": "node_modules/ultrasonic/loop_compus.flac"
     },
     {
       "name": "Loop Garzul",
-      "file": "wave_modules/sonic-samples/loop_garzul.flac"
+      "file": "node_modules/ultrasonic/loop_garzul.flac"
     },
     {
       "name": "Loop Industrial",
-      "file": "wave_modules/sonic-samples/loop_industrial.flac"
+      "file": "node_modules/ultrasonic/loop_industrial.flac"
     },
     {
       "name": "Loop Mika",
-      "file": "wave_modules/sonic-samples/loop_mika.flac"
+      "file": "node_modules/ultrasonic/loop_mika.flac"
     },
     {
       "name": "Loop Safari",
-      "file": "wave_modules/sonic-samples/loop_safari.flac"
+      "file": "node_modules/ultrasonic/loop_safari.flac"
     },
     {
       "name": "Loop Tabla",
-      "file": "wave_modules/sonic-samples/loop_tabla.flac"
+      "file": "node_modules/ultrasonic/loop_tabla.flac"
     },
     {
       "name": "Misc Burp",
-      "file": "wave_modules/sonic-samples/misc_burp.flac"
+      "file": "node_modules/ultrasonic/misc_burp.flac"
     },
     {
       "name": "Misc Cineboom",
-      "file": "wave_modules/sonic-samples/misc_cineboom.flac"
+      "file": "node_modules/ultrasonic/misc_cineboom.flac"
     },
     {
       "name": "Misc Crow",
-      "file": "wave_modules/sonic-samples/misc_crow.flac"
+      "file": "node_modules/ultrasonic/misc_crow.flac"
     },
     {
       "name": "Percussion Bell",
-      "file": "wave_modules/sonic-samples/perc_bell.flac"
+      "file": "node_modules/ultrasonic/perc_bell.flac"
     },
     {
       "name": "Percussion Snap",
-      "file": "wave_modules/sonic-samples/perc_snap.flac"
+      "file": "node_modules/ultrasonic/perc_snap.flac"
     },
     {
       "name": "Percussion Snap #2",
-      "file": "wave_modules/sonic-samples/perc_snap2.flac"
+      "file": "node_modules/ultrasonic/perc_snap2.flac"
     },
     {
       "name": "Percussion Swash",
-      "file": "wave_modules/sonic-samples/perc_swash.flac"
+      "file": "node_modules/ultrasonic/perc_swash.flac"
     },
     {
       "name": "Percussion Till",
-      "file": "wave_modules/sonic-samples/perc_till.flac"
+      "file": "node_modules/ultrasonic/perc_till.flac"
     },
     {
       "name": "Snare Dolf",
-      "file": "wave_modules/sonic-samples/sn_dolf.flac"
+      "file": "node_modules/ultrasonic/sn_dolf.flac"
     },
     {
       "name": "Snare Dub",
-      "file": "wave_modules/sonic-samples/sn_dub.flac"
+      "file": "node_modules/ultrasonic/sn_dub.flac"
     },
     {
       "name": "Snare Zome",
-      "file": "wave_modules/sonic-samples/sn_zome.flac"
+      "file": "node_modules/ultrasonic/sn_zome.flac"
     },
     {
       "name": "Tabla Dhec",
-      "file": "wave_modules/sonic-samples/tabla_dhec.flac"
+      "file": "node_modules/ultrasonic/tabla_dhec.flac"
     },
     {
       "name": "Tabla Ghe #1",
-      "file": "wave_modules/sonic-samples/tabla_ghe1.flac"
+      "file": "node_modules/ultrasonic/tabla_ghe1.flac"
     },
     {
       "name": "Tabla Ghe #2",
-      "file": "wave_modules/sonic-samples/tabla_ghe2.flac"
+      "file": "node_modules/ultrasonic/tabla_ghe2.flac"
     },
     {
       "name": "Tabla Ghe #3",
-      "file": "wave_modules/sonic-samples/tabla_ghe3.flac"
+      "file": "node_modules/ultrasonic/tabla_ghe3.flac"
     },
     {
       "name": "Tabla Ghe #4",
-      "file": "wave_modules/sonic-samples/tabla_ghe4.flac"
+      "file": "node_modules/ultrasonic/tabla_ghe4.flac"
     },
     {
       "name": "Tabla Ghe #5",
-      "file": "wave_modules/sonic-samples/tabla_ghe5.flac"
+      "file": "node_modules/ultrasonic/tabla_ghe5.flac"
     },
     {
       "name": "Tabla Ghe #6",
-      "file": "wave_modules/sonic-samples/tabla_ghe6.flac"
+      "file": "node_modules/ultrasonic/tabla_ghe6.flac"
     },
     {
       "name": "Tabla Ghe #7",
-      "file": "wave_modules/sonic-samples/tabla_ghe7.flac"
+      "file": "node_modules/ultrasonic/tabla_ghe7.flac"
     },
     {
       "name": "Tabla Ghe #8",
-      "file": "wave_modules/sonic-samples/tabla_ghe8.flac"
+      "file": "node_modules/ultrasonic/tabla_ghe8.flac"
     },
     {
       "name": "Tabla Ke #1",
-      "file": "wave_modules/sonic-samples/tabla_ke1.flac"
+      "file": "node_modules/ultrasonic/tabla_ke1.flac"
     },
     {
       "name": "Tabla Ke #2",
-      "file": "wave_modules/sonic-samples/tabla_ke2.flac"
+      "file": "node_modules/ultrasonic/tabla_ke2.flac"
     },
     {
       "name": "Tabla Ke #3",
-      "file": "wave_modules/sonic-samples/tabla_ke3.flac"
+      "file": "node_modules/ultrasonic/tabla_ke3.flac"
     },
     {
       "name": "Tabla Na",
-      "file": "wave_modules/sonic-samples/tabla_na.flac"
+      "file": "node_modules/ultrasonic/tabla_na.flac"
     },
     {
       "name": "Tabla Na O",
-      "file": "wave_modules/sonic-samples/tabla_na_o.flac"
+      "file": "node_modules/ultrasonic/tabla_na_o.flac"
     },
     {
       "name": "Tabla Na S",
-      "file": "wave_modules/sonic-samples/tabla_na_s.flac"
+      "file": "node_modules/ultrasonic/tabla_na_s.flac"
     },
     {
       "name": "Tabla Re",
-      "file": "wave_modules/sonic-samples/tabla_re.flac"
+      "file": "node_modules/ultrasonic/tabla_re.flac"
     },
     {
       "name": "Tabla Tas #1",
-      "file": "wave_modules/sonic-samples/tabla_tas1.flac"
+      "file": "node_modules/ultrasonic/tabla_tas1.flac"
     },
     {
       "name": "Tabla Tas #2",
-      "file": "wave_modules/sonic-samples/tabla_tas2.flac"
+      "file": "node_modules/ultrasonic/tabla_tas2.flac"
     },
     {
       "name": "Tabla Tas #3",
-      "file": "wave_modules/sonic-samples/tabla_tas3.flac"
+      "file": "node_modules/ultrasonic/tabla_tas3.flac"
     },
     {
       "name": "Tabla Te #1",
-      "file": "wave_modules/sonic-samples/tabla_te1.flac"
+      "file": "node_modules/ultrasonic/tabla_te1.flac"
     },
     {
       "name": "Tabla Te #2",
-      "file": "wave_modules/sonic-samples/tabla_te2.flac"
+      "file": "node_modules/ultrasonic/tabla_te2.flac"
     },
     {
       "name": "Tabla Te M",
-      "file": "wave_modules/sonic-samples/tabla_te_m.flac"
+      "file": "node_modules/ultrasonic/tabla_te_m.flac"
     },
     {
       "name": "Tabla Te Ne",
-      "file": "wave_modules/sonic-samples/tabla_te_ne.flac"
+      "file": "node_modules/ultrasonic/tabla_te_ne.flac"
     },
     {
       "name": "Tabla Tun #1",
-      "file": "wave_modules/sonic-samples/tabla_tun1.flac"
+      "file": "node_modules/ultrasonic/tabla_tun1.flac"
     },
     {
       "name": "Tabla Tun #2",
-      "file": "wave_modules/sonic-samples/tabla_tun2.flac"
+      "file": "node_modules/ultrasonic/tabla_tun2.flac"
     },
     {
       "name": "Tabla Tun #3",
-      "file": "wave_modules/sonic-samples/tabla_tun3.flac"
+      "file": "node_modules/ultrasonic/tabla_tun3.flac"
     },
     {
       "name": "Vinyl Backspin",
-      "file": "wave_modules/sonic-samples/vinyl_backspin.flac"
+      "file": "node_modules/ultrasonic/vinyl_backspin.flac"
     },
     {
       "name": "Vinyl Hiss",
-      "file": "wave_modules/sonic-samples/vinyl_hiss.flac"
+      "file": "node_modules/ultrasonic/vinyl_hiss.flac"
     },
     {
       "name": "Vinyl Rewind",
-      "file": "wave_modules/sonic-samples/vinyl_rewind.flac"
+      "file": "node_modules/ultrasonic/vinyl_rewind.flac"
     },
     {
       "name": "Vinyl Scratch",
-      "file": "wave_modules/sonic-samples/vinyl_scratch.flac"
+      "file": "node_modules/ultrasonic/vinyl_scratch.flac"
     }
   ]
 }
