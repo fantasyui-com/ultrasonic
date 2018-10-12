@@ -1,4 +1,4 @@
-# audible
+# ultrasonic
 A collection of outstanding sound samples extracted from sonic-pi project and made compatible with npm modules for use with node.js
 
 Please note the index.js and index.json data descriptors as they contain proper sound names absent in sonic-pi.
