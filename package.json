@@ -4,14 +4,15 @@
   "description": "A collection of outstanding sound samples extracted from sonic-pi project and made compatible with npm modules for use with node.js",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "save": "\"save\": \"git add .; git commit -m 'New Release'; git push; npm version patch; npm publish; git push;\""
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fantasyui-com/ultrasonic.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "fantasyui.com <fantasyui.com@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/fantasyui-com/ultrasonic/issues"
